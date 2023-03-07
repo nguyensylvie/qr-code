@@ -1,0 +1,48 @@
+// Colors Variables
+$white: hsl(0, 0%, 100%);
+$light-gray: hsl(212, 45%, 89%);
+$grayish-blue: hsl(220, 15%, 55%);
+$dark-blue: hsl(218, 44%, 22%);
+
+// Font Variable
+$outfit: "Outfit", sans-serif;
+
+//Style
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $light-gray;
+  font-family: $outfit;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  .item {
+    padding: 15px;
+    width: 280px;
+    background-color: $white;
+    text-align: center;
+    border-radius: 15px;
+    .item_picture {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      color: $dark-blue;
+      padding: 5px 5px 0 5px;
+    }
+    .item_description {
+      font-size: 15px;
+      font-weight: 400;
+      color: $grayish-blue;
+      padding: 0 10px 10px 10px;
+    }
+  }
+}
