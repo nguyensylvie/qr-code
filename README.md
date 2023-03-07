@@ -28,5 +28,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Sylvie](https://sylvie-nguyen.vercel.app)
 - Frontend Mentor - [@nguyensylvie](https://www.frontendmentor.io/profile/nguyensylvie)
