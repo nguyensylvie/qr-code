@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -21,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/nguyensylvie/qr-code)
+- Live Site URL: [live site](https://nguyensylvie.github.io/qr-code/)
 
 ## My process
 
@@ -34,5 +33,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Sylvie](https://sylvie-nguyen.vercel.app)
 - Frontend Mentor - [@nguyensylvie](https://www.frontendmentor.io/profile/nguyensylvie)
